@@ -4,7 +4,7 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "magicmaggio-orga"
 
     workspaces {
       name = "learn-terraform"
